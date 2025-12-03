@@ -12,28 +12,34 @@ Made for businesses looking for a fast, clean, and high-performance online prese
 ### Clone the project:
 ```bash
 git clone https://github.com/sayeed-mahdii/webSigniFix
+```
 
 ### Go to the project folder:
 ```bash
 cd webSigniFix
+```
 
 ### Install dependencies:
 ```bash
 npm install
+```
 
 ### Run locally:
 ```bash
 npm run dev
+```
 
 ## Deployment:
 
 ### Build for production:
 ```bash
 npm run build
+```
 
 ### If hosting on GitHub Pages:
 ```bash
 npm run deploy
+```
 
 ## Project Structure (Simple):
 
