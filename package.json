@@ -1,9 +1,9 @@
 {
-  "name": "websignifix",
+  "name": "webSigniFix",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://sayeed-mahdii.github.io/websignifix",
+  "homepage": "https://sayeed-mahdii.github.io/webSigniFix",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

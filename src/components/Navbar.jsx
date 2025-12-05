@@ -7,7 +7,7 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false)
 
   return (
-    <nav className='w-full flex py-6 px-4 justify-between items-center navbar fixed top-0 left-0 z-50'>
+    <nav className='w-full flex py-2 px-4 justify-between items-center navbar fixed top-0 left-0 z-50 bg-[rgba(255,255,255,0.06)] backdrop-blur-md border-b border-[rgba(255,255,255,0.15)] shadow-lg'>
       <a href="#home">
       <img src={logo} alt='websignifix' className='w-[124px] h-[50px]'/></a>
       <ul className='list-none sm:flex hidden justify-end items-center flex-1'>
